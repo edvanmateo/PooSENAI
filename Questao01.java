@@ -14,7 +14,7 @@ public class Questao01 {
     public static void main(String[] args) {
         
         float vet[];
-        vet = new float[3] ;
+        vet = new float[3];
         float soma = 0;
        
        for (int i=0; i<3; i++){
